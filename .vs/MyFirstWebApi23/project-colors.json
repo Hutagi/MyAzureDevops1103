@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b52f0bd0-2feb-4460-9a13-96a147d36f1f": {
+      "ProjectGuid": "b52f0bd0-2feb-4460-9a13-96a147d36f1f",
+      "DisplayName": "MyFirstWebApi23",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
